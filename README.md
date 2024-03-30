@@ -64,5 +64,7 @@ Si tienes alguna recomendación, duda, aclaración no dudes en contactarme: marm
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<div>
+  <img src="timecapsule.png">
+</div>
 
