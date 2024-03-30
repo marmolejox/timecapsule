@@ -1,27 +1,70 @@
-# Timecapsule
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
+# Timecapsule 🌎
 
-## Development server
+TimeCapsule es un proyecto de tesina que ofrece una página de aprendizaje a través de un globo terráqueo 3D interactivo. Explora el mundo, descubre datos geográficos y sumérgete en una experiencia educativa única. 📚
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Tecnologías
 
-## Running unit tests
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Running end-to-end tests
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+## Instalación
+
+Para hacer un deploy correcto de este proyecto sigue los siguientes pasos:
+
+Instalará las dependencias de Node.js
+
+```bash
+  npm run i
+```
+Corregir las dependencias obsoletas.
+
+```bash
+  npm audit fix --force
+```
+
+Por último.
+
+```bash
+  ng serve
+```
+
+
+
+
+
+## Feedback
+
+Si tienes alguna recomendación, duda, aclaración no dudes en contactarme: marmolejx@gmail.com
+
+
+
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
+## Screenshots
+
+<div>
+  <img src="timecapsule.png">
+</div>
+
